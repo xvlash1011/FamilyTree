@@ -1,0 +1,22 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-none {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.modal {
+  @apply absolute top-0 left-0 w-screen h-screen flex opacity-0 pointer-events-none;
+}
+
+.modal.active {
+  @apply pointer-events-auto opacity-100;
+}
+
+.room.active {
+  @apply bg-blue-200 #{!important};
+}

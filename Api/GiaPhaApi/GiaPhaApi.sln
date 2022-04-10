@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiaPhaApi.Api", "GiaPhaApi.Api\GiaPhaApi.Api.csproj", "{9BD48E96-D116-498C-BBFF-5B979C35EADE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiaPhaApi.Data", "GiaPhaApi.Data\GiaPhaApi.Data.csproj", "{5B48E4EE-0E15-4BDB-A7B9-44170BDC5D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD48E96-D116-498C-BBFF-5B979C35EADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD48E96-D116-498C-BBFF-5B979C35EADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD48E96-D116-498C-BBFF-5B979C35EADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD48E96-D116-498C-BBFF-5B979C35EADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B48E4EE-0E15-4BDB-A7B9-44170BDC5D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B48E4EE-0E15-4BDB-A7B9-44170BDC5D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B48E4EE-0E15-4BDB-A7B9-44170BDC5D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B48E4EE-0E15-4BDB-A7B9-44170BDC5D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73BCDB1-8B47-46CC-B366-E5044D1CDB73}
+	EndGlobalSection
+EndGlobal

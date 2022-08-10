@@ -1025,19 +1025,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JITS\\.nuget\\packages\\": {}
+    "C:\\Users\\cunco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JITS\\Documents\\GitHub\\FamilyTree\\Api\\GiaPhaApi\\GiaPhaApi.Data\\GiaPhaApi.Data.csproj",
+      "projectUniqueName": "D:\\Study\\GiaPha\\GiaPha\\Api\\GiaPhaApi\\GiaPhaApi.Data\\GiaPhaApi.Data.csproj",
       "projectName": "GiaPhaApi.Data",
-      "projectPath": "C:\\Users\\JITS\\Documents\\GitHub\\FamilyTree\\Api\\GiaPhaApi\\GiaPhaApi.Data\\GiaPhaApi.Data.csproj",
-      "packagesPath": "C:\\Users\\JITS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JITS\\Documents\\GitHub\\FamilyTree\\Api\\GiaPhaApi\\GiaPhaApi.Data\\obj\\",
+      "projectPath": "D:\\Study\\GiaPha\\GiaPha\\Api\\GiaPhaApi\\GiaPhaApi.Data\\GiaPhaApi.Data.csproj",
+      "packagesPath": "C:\\Users\\cunco\\.nuget\\packages\\",
+      "outputPath": "D:\\Study\\GiaPha\\GiaPha\\Api\\GiaPhaApi\\GiaPhaApi.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JITS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cunco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1083,7 +1083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

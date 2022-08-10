@@ -502,4 +502,3 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 *.cache
-*.editorconfig
